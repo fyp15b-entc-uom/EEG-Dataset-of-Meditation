@@ -1,6 +1,19 @@
 # EEG-Dataset-of-Meditation
 This has EEG data sets taken during buddhist culture based samatha and vipassana meditations. 
 
+### Samatha meditation
+Loving kindness meditation was perforemd under Samatha category following the steps mentioned below.
+  1. Establishing Mindfulness (Sathi) on all living beings.
+  2. Spreading loving kindness to himself.
+  3. Spreading loving kindness to all other living beings.
+  4. Access concentration (state 1) - Co-operation of mental factors, No strong emotional pull towards hindrances, More mental energy available, Easier concentration
+  5. First concentration (Dhyana) state (state 2) - Absence of the five hindrances, Concentration taking place along with; Coarse examination (Vitakka), Precise investigation (Vicāra), Feeling of Well-being/Joy (Preethi), Feeling of Bliss (Sukha), Single-pointed attention (Ekaggatā) 
+  6. Second concentration (Dyana) state (state 3) - Absence of the five hindrances, Concentration happening only with; Feeling of Well-being/Joy (Preethi), Feeling of Bliss (Sukha), Single-pointed attention (Ekaggatā)
+
+### Vipassana meditation
+Vipassana meditation was performed following the steps mentioned below. 
+
+
 ### EEG setup: 
     • Number of EEG channels – 32 (10-20 elecrode placement)
     • Type of electrodes – Active electrodes (Gel based)
@@ -21,15 +34,3 @@ There were two sessions for samatha and vipassana meditations for each subject. 
    Rest 1 --> Samatha meditation <break> --> Rest 2 --> Vipassana meditation
 
 
-## Samatha meditation
-Loving kindness meditation was perforemd under Samatha category following the steps mentioned below.
-  1. Establishing Mindfulness (Sathi) on all living beings.
-  2. Spreading loving kindness to himself.
-  3. Spreading loving kindness to all other living beings.
-  4. Access concentration (state 1)
-  5. First concentration state (state 2)
-  6. Second concentration state (state 3)
-  
-  The subjects with 30+ years of meditating experience performed concentration states changes 
-
-## Vipassana meditation
