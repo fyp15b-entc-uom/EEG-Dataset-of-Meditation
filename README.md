@@ -2,11 +2,12 @@
 This has EEG data sets taken during buddhist culture based samatha and vipassana meditations. 
 
 ### EEG setup: 
-    Number of EEG channels – 32 (10-20 elecrode placement)
-    Type of electrodes – Active electrodes (Gel based)
-    EEG montage (Placement of electrode on the scalp)
+    • Number of EEG channels – 32 (10-20 elecrode placement)
+    • Type of electrodes – Active electrodes (Gel based)
+    • EEG montage (Placement of electrode on the scalp)
             • Referential montage (single electrode as reference for all electrodes)
             • Right Ear lobe is taken as the reference.
+     
 
 
 ## Experimental Procedure
