@@ -2,7 +2,15 @@
 This has EEG data sets taken during buddhist culture based samatha and vipassana meditations. 
 
 ## Experimental Procedure
-There were two sessions for samatha and vipassana meditation for each subject. Each session was performed for about 20-40 minutes. 
+There were two sessions for samatha and vipassana meditations for each subject. Each session was performed for about 20-40 minutes. A resting dataset was taken before the meditation session with closed eyes from each subject (rest 1). 
+
+#### No.of Subjects: 10
+    No of subjects with 30+ years of meditating experience : 4
+    No of subjects with <30 years of meditating experience : 6 
+
+#### Order of meditation : 
+   Rest 1 --> Samatha meditation <break> --> Rest 2 --> Vipassana meditation
+
 
 ## Samatha meditation
 Loving kindness meditation was perforemd under Samatha category following the steps mentioned below.
@@ -16,11 +24,3 @@ Loving kindness meditation was perforemd under Samatha category following the st
   The subjects with 30+ years of meditating experience performed concentration states changes 
 
 ## Vipassana meditation
-#### No.of Subjects: 10
-    * No of subjects with 30+ years of meditating experience : 4
-    * No of subjects with <30 years of meditating experience : 6 
-    
-
-
-#### Order of meditation : 
-   Rest 1 --> Samatha meditation <break> --> Rest 2 --> Vipassana meditation
