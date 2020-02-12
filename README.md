@@ -36,7 +36,7 @@ There were two sessions for samatha and vipassana meditations for each subject. 
 
 #### No.of Subjects: 10
     No of subjects with 30+ years of meditating experience : 4
-    No of subjects with <30 years of meditating experience : 6 
+    No of subjects with <30 years of meditating experience : 8 
 
 #### Order of meditation : 
    Rest 1 --> Samatha meditation <break> --> Rest 2 --> Vipassana meditation
