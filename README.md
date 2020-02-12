@@ -1,5 +1,5 @@
 # EEG-Dataset-of-Meditation
-This has EEG data sets taken during buddhist culture based samatha and vipassana meditations. 
+The data presented here were originally collected for a research project entitled “Meditation State Recognition using Brain Computer Interface ”.EEG data was collected from 12 experienced meditators  during buddhist culture based samatha and vipassana meditations along with EEG data of their normal rest condition.
 
 ### Samatha meditation
 Loving kindness meditation was perforemd under Samatha category following the steps mentioned below.
