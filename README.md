@@ -22,12 +22,14 @@ Vipassana meditation was performed following the steps mentioned below.
 8. Detachment (Patinissagga) 
 
 ### EEG setup: 
-    • EEG setup: Guger Technologies HiAmplifier
+    • EEG setup: Guger Technologies g.HIAMP multichannel amplifier
     • Number of EEG channels – 32 (10-20 elecrode placement)        
     • Type of electrodes – Active electrodes (Gel based)
     • EEG montage (Placement of electrode on the scalp)
             	 Referential montage (single electrode as reference for all electrodes)
-            	 Right Ear lobe is taken as the reference.
+            	 Right Ear lobe is taken as the reference
+    • Cap size - g.GAMMACAP small (Head circumference 50 - 54 cm)
+          
   
  ![electrode locations](electrode-montage/electrodeLocs.jpg)
 
