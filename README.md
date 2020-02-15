@@ -22,15 +22,15 @@ Vipassana meditation was performed following the steps mentioned below.
 8. Detachment (Patinissagga) 
 
 ### EEG setup: 
-    • EEG setup: Guger Technologies HiAmp..........
-    • Number of EEG channels – 32 (10-20 elecrode placement)
-            
+    • EEG setup: Guger Technologies HiAmplifier
+    • Number of EEG channels – 32 (10-20 elecrode placement)        
     • Type of electrodes – Active electrodes (Gel based)
     • EEG montage (Placement of electrode on the scalp)
             	 Referential montage (single electrode as reference for all electrodes)
             	 Right Ear lobe is taken as the reference.
   
  ![electrode locations](electrode-montage/electrodeLocs.jpg)
+
 ## Experimental Procedure
 There were two sessions for samatha and vipassana meditations for each subject. Each session was performed for about 20-40 minutes. A resting dataset was taken before the meditation session with closed eyes from each subject (rest 1). 
 
